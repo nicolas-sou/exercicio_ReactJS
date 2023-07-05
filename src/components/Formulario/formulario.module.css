@@ -1,0 +1,57 @@
+.container {
+    background-color: #f5f6fa;
+    height: 100vh;
+}
+
+.title {
+    background-color: #54a0ff;
+    padding: 25px;
+    text-align: center;
+    width: 100%;
+    color: #fff;
+    font-size: 28px;
+}
+
+.text {
+    padding: 20px;
+    font-weight: bold;
+}
+
+.textlabel {
+    font-weight: bold;
+}
+
+.imc {
+    text-align: center;
+    padding-top: 15px;
+}
+
+.inputs {
+    text-align: center;
+    margin: 30px;
+}
+
+.campo {
+    border-radius: 5px;
+    border: 2px solid #54a0ff;
+    width: 80px;
+    height: 40px;
+    margin: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.button {
+    padding: 15px;
+    margin-left: 25px;
+    color: #fff;
+    background-color: #54a0ff;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.tabela {
+    margin: 0 auto;
+    text-align: center;
+}
